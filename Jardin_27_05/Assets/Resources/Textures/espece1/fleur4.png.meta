@@ -1,0 +1,1134 @@
+fileFormatVersion: 2
+guid: 033039352cee68d48b245a010720b1d8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fleur_00_profil04_00000
+    21300002: Fleur_00_profil04_00001
+    21300004: Fleur_00_profil04_00002
+    21300006: Fleur_00_profil04_00003
+    21300008: Fleur_00_profil04_00004
+    21300010: Fleur_00_profil04_00005
+    21300012: Fleur_00_profil04_00006
+    21300014: Fleur_00_profil04_00007
+    21300016: Fleur_00_profil04_00008
+    21300018: Fleur_00_profil04_00009
+    21300020: Fleur_00_profil04_00010
+    21300022: Fleur_00_profil04_00011
+    21300024: Fleur_00_profil04_00012
+    21300026: Fleur_00_profil04_00013
+    21300028: Fleur_00_profil04_00014
+    21300030: Fleur_00_profil04_00015
+    21300032: Fleur_00_profil04_00016
+    21300034: Fleur_00_profil04_00017
+    21300036: Fleur_00_profil04_00018
+    21300038: Fleur_00_profil04_00019
+    21300040: Fleur_00_profil04_00020
+    21300042: Fleur_00_profil04_00021
+    21300044: Fleur_00_profil04_00022
+    21300046: Fleur_00_profil04_00023
+    21300048: Fleur_00_profil04_00024
+    21300050: Fleur_00_profil04_00025
+    21300052: Fleur_00_profil04_00026
+    21300054: Fleur_00_profil04_00027
+    21300056: Fleur_00_profil04_00028
+    21300058: Fleur_00_profil04_00029
+    21300060: Fleur_00_profil04_00030
+    21300062: Fleur_00_profil04_00031
+    21300064: Fleur_00_profil04_00032
+    21300066: Fleur_00_profil04_00033
+    21300068: Fleur_00_profil04_00034
+    21300070: Fleur_00_profil04_00035
+    21300072: Fleur_00_profil04_00036
+    21300074: Fleur_00_profil04_00037
+    21300076: Fleur_00_profil04_00038
+    21300078: Fleur_00_profil04_00039
+    21300080: Fleur_00_profil04_00040
+    21300082: Fleur_00_profil04_00041
+    21300084: Fleur_00_profil04_00042
+    21300086: Fleur_00_profil04_00043
+    21300088: Fleur_00_profil04_00044
+    21300090: Fleur_00_profil04_00045
+    21300092: Fleur_00_profil04_00046
+    21300094: Fleur_00_profil04_00047
+    21300096: Fleur_00_profil04_00048
+    21300098: Fleur_00_profil04_00049
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 87.5, y: -86.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588dbb4cc0461184fb0b43acb9a21ccc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00001
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.8076923, y: 0.26923078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f104d489bbb3a4bb95437de524750f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00002
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.76666665, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521af78d696a0ae47812db84b79e2450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00003
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 3
+        width: 10
+        height: 11
+      alignment: 9
+      pivot: {x: 0.55, y: -0.045454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8378e8a9c214a9b499178ec64dd707a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00004
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 5
+        width: 18
+        height: 43
+      alignment: 9
+      pivot: {x: 0.6944444, y: 0.10465116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0069d551a9f279e47991e88ac3a351cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00005
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 4
+        width: 23
+        height: 23
+      alignment: 9
+      pivot: {x: 0.2826087, y: -0.02173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1dd386037e41d47b94ceae9032d417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00006
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2
+        width: 14
+        height: 15
+      alignment: 9
+      pivot: {x: 0.53571427, y: -0.033333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb79f94fc3fa2448933fc17a1394c4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00007
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 8
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6875, y: 0.0375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896eb57d84fb01748961a07fd3679d70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00008
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 8
+        width: 17
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078947365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe0eeadc89bf5a4e8329838fa4e46cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00009
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 130
+        width: 31
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6935484, y: 0.24358974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d922d068d83d2f845ab3b0265b2669d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00010
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 5
+        width: 21
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b619076d3c17a24aa565c7236e2a32d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00011
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 3
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.47916666, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d34d98547281d4b92b561cbed93176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00012
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 3
+        width: 26
+        height: 27
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.09259259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb35b51a5e6dcb479dd2b1931419409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00013
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 140
+        width: 29
+        height: 30
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0.11666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663177df9c127eb44aa74d0de033dffd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00014
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 138
+        width: 33
+        height: 32
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.140625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3c176c0a0494d4090d7869b14e213c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00015
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 134
+        width: 37
+        height: 35
+      alignment: 9
+      pivot: {x: 0.47297296, y: 0.15714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00973a794f1c2a941b548a5ba534b6e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00016
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 131
+        width: 43
+        height: 38
+      alignment: 9
+      pivot: {x: 0.47674417, y: 0.17105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bafb3daba287ae438cfa3c65db72a18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00017
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 7
+        width: 49
+        height: 41
+      alignment: 9
+      pivot: {x: 0.47959185, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48469282bb66094d8b4fc9d8dc77f65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00018
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 143
+        width: 58
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5086207, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc127295a85ac84db9abc87ff3de4e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00019
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 205
+        width: 60
+        height: 50
+      alignment: 9
+      pivot: {x: 0.475, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b1ada7f40c2314bbb817adaa6a22dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00020
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1
+        width: 82
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4695122, y: 0.44078946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e77cf4d0e021224d869668aa1aafe81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00021
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 79
+        width: 73
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33064517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c4c0144f95cb24ba62c015c21fecde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00022
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 12
+        width: 85
+        height: 65
+      alignment: 9
+      pivot: {x: 0.4882353, y: 0.34615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4e79c19f22ad54d987b571b5567f65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00023
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 93
+        width: 96
+        height: 81
+      alignment: 9
+      pivot: {x: 0.49479166, y: 0.33950618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ca38b1f665fa94c9cc5d54bc3324bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00024
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 172
+        width: 97
+        height: 83
+      alignment: 9
+      pivot: {x: 0.47938144, y: 0.3554217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ed7b1722ac682428e1ed7931c74dee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00025
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 176
+        width: 106
+        height: 79
+      alignment: 9
+      pivot: {x: 0.45754716, y: 0.39873418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a85c9aa4709a8244961c48114206ad6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00026
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 50
+        width: 101
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43292683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236ba83d722838146a479a21dd2d674d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00027
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 171
+        width: 105
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b97caaac49ec141aab1c99df8a059f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00028
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 29
+        width: 117
+        height: 95
+      alignment: 9
+      pivot: {x: 0.48290598, y: 0.45789474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5eeb604c012804f924c8fb0f62e47b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00029
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 32
+        width: 112
+        height: 92
+      alignment: 9
+      pivot: {x: 0.4955357, y: 0.4728261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba51a9f21e131f4298d6e0da7e66929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00030
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 19
+        width: 114
+        height: 103
+      alignment: 9
+      pivot: {x: 0.50438595, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5ed638d5334a94f9360ac602b862c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00031
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 9
+        width: 113
+        height: 106
+      alignment: 9
+      pivot: {x: 0.48230088, y: 0.5141509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67b9c9a8f9e0094780f29c0beb4a3ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00032
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 16
+        width: 131
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4923664, y: 0.54761904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ad7b9aa36a0aa4db3379f4c041a36b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00033
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 130
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4730769, y: 0.5186916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86aeee6906ffcb4d9232af350cdc007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00034
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 3
+        width: 128
+        height: 115
+      alignment: 9
+      pivot: {x: 0.46484375, y: 0.5521739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59ae251342039346ab6da399805c551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00035
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 125
+        height: 110
+      alignment: 9
+      pivot: {x: 0.46, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e103969beb09bf41a69c7ab6d6faa2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00036
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1
+        width: 129
+        height: 123
+      alignment: 9
+      pivot: {x: 0.50775194, y: 0.5487805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dab9df08d89a234d9a61346ac0f44ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00037
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 3
+        width: 130
+        height: 125
+      alignment: 9
+      pivot: {x: 0.45, y: 0.564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91156fed088678342bd5739a643b1c80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00038
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 130
+        width: 128
+        height: 125
+      alignment: 9
+      pivot: {x: 0.48828125, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eeeb7d430903ce469392272be8ba2ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00039
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 3
+        width: 136
+        height: 125
+      alignment: 9
+      pivot: {x: 0.46691176, y: 0.588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c893d59dd245148955004050296a30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00040
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 4
+        width: 133
+        height: 124
+      alignment: 9
+      pivot: {x: 0.4548872, y: 0.54435486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f161fa1b5a414f41977dd4384bd4712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00041
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 130
+        width: 136
+        height: 125
+      alignment: 9
+      pivot: {x: 0.46691176, y: 0.612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef89d747a0df42840a60d4df651e3926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00042
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 130
+        width: 146
+        height: 125
+      alignment: 9
+      pivot: {x: 0.48287672, y: 0.564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d726379c9913f44a8d595cd88320425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00043
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 123
+        width: 139
+        height: 132
+      alignment: 9
+      pivot: {x: 0.44964027, y: 0.594697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1ad764a93757f45a64c215b036263b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00044
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 126
+        width: 138
+        height: 129
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.6007752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a775c93656be9ff4fb4b456d09ed508c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00045
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 124
+        width: 144
+        height: 131
+      alignment: 9
+      pivot: {x: 0.4548611, y: 0.5610687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917e3bf31fdddf942a2d7a21785d1319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00046
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 117
+        width: 150
+        height: 138
+      alignment: 9
+      pivot: {x: 0.48333332, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846c4133915f91144b748a2d60172b61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00047
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 117
+        width: 145
+        height: 138
+      alignment: 9
+      pivot: {x: 0.4586207, y: 0.59782606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c0ccb7b5c861b4c82c7c02569d8056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00048
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 126
+        width: 145
+        height: 129
+      alignment: 9
+      pivot: {x: 0.4586207, y: 0.57751936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89aa5656dcab9d447ae444f2b5d1bb36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fleur_00_profil04_00049
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 120
+        width: 138
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4746377, y: 0.5888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2603bdef563a8da40bf3aa82ff504023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5c0b2e94325b2c2448859ca770631bab
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

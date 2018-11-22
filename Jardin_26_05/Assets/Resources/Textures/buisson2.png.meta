@@ -1,0 +1,6395 @@
+fileFormatVersion: 2
+guid: cd80d495d0ebd9d4eb92c856fafacc5c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BUISSON_06_profil_10_00000
+    21300002: BUISSON_06_profil_10_00001
+    21300004: BUISSON_06_profil_10_00002
+    21300006: BUISSON_06_profil_10_00003
+    21300008: BUISSON_06_profil_10_00004
+    21300010: BUISSON_06_profil_10_00005
+    21300012: BUISSON_06_profil_10_00006
+    21300014: BUISSON_06_profil_10_00007
+    21300016: BUISSON_06_profil_10_00008
+    21300018: BUISSON_06_profil_10_00009
+    21300020: BUISSON_06_profil_10_00010
+    21300022: BUISSON_06_profil_10_00011
+    21300024: BUISSON_06_profil_10_00012
+    21300026: BUISSON_06_profil_10_00013
+    21300028: BUISSON_06_profil_10_00014
+    21300030: BUISSON_06_profil_10_00015
+    21300032: BUISSON_06_profil_10_00016
+    21300034: BUISSON_06_profil_10_00017
+    21300036: BUISSON_06_profil_10_00018
+    21300038: BUISSON_06_profil_10_00019
+    21300040: BUISSON_06_profil_10_00020
+    21300042: BUISSON_06_profil_10_00021
+    21300044: BUISSON_06_profil_10_00022
+    21300046: BUISSON_06_profil_10_00023
+    21300048: BUISSON_06_profil_10_00024
+    21300050: BUISSON_06_profil_10_00025
+    21300052: BUISSON_06_profil_10_00026
+    21300054: BUISSON_06_profil_10_00027
+    21300056: BUISSON_06_profil_10_00028
+    21300058: BUISSON_06_profil_10_00029
+    21300060: BUISSON_06_profil_10_00030
+    21300062: BUISSON_06_profil_10_00031
+    21300064: BUISSON_06_profil_10_00032
+    21300066: BUISSON_06_profil_10_00033
+    21300068: BUISSON_06_profil_10_00034
+    21300070: BUISSON_06_profil_10_00035
+    21300072: BUISSON_06_profil_10_00036
+    21300074: BUISSON_06_profil_10_00037
+    21300076: BUISSON_06_profil_10_00038
+    21300078: BUISSON_06_profil_10_00039
+    21300080: BUISSON_06_profil_10_00040
+    21300082: BUISSON_06_profil_10_00041
+    21300084: BUISSON_06_profil_10_00042
+    21300086: BUISSON_06_profil_10_00043
+    21300088: BUISSON_06_profil_10_00044
+    21300090: BUISSON_06_profil_10_00045
+    21300092: BUISSON_06_profil_10_00046
+    21300094: BUISSON_06_profil_10_00047
+    21300096: BUISSON_06_profil_10_00048
+    21300098: BUISSON_06_profil_10_00049
+    21300100: BUISSON_06_profil_10_00050
+    21300102: BUISSON_06_profil_10_00051
+    21300104: BUISSON_06_profil_10_00052
+    21300106: BUISSON_06_profil_10_00053
+    21300108: BUISSON_06_profil_10_00054
+    21300110: BUISSON_06_profil_10_00055
+    21300112: BUISSON_06_profil_10_00056
+    21300114: BUISSON_06_profil_10_00057
+    21300116: BUISSON_06_profil_10_00058
+    21300118: BUISSON_06_profil_10_00059
+    21300120: BUISSON_06_profil_10_00060
+    21300122: BUISSON_06_profil_10_00061
+    21300124: BUISSON_06_profil_10_00062
+    21300126: BUISSON_06_profil_10_00063
+    21300128: BUISSON_06_profil_10_00064
+    21300130: BUISSON_06_profil_10_00065
+    21300132: BUISSON_06_profil_10_00066
+    21300134: BUISSON_06_profil_10_00067
+    21300136: BUISSON_06_profil_10_00068
+    21300138: BUISSON_06_profil_10_00069
+    21300140: BUISSON_06_profil_10_00070
+    21300142: BUISSON_06_profil_10_00071
+    21300144: BUISSON_06_profil_10_00072
+    21300146: BUISSON_06_profil_10_00073
+    21300148: BUISSON_06_profil_10_00074
+    21300150: BUISSON_06_profil_10_00075
+    21300152: BUISSON_06_profil_10_00076
+    21300154: BUISSON_06_profil_10_00077
+    21300156: BUISSON_06_profil_10_00078
+    21300158: BUISSON_06_profil_10_00079
+    21300160: BUISSON_06_profil_10_00080
+    21300162: BUISSON_06_profil_10_00081
+    21300164: BUISSON_06_profil_10_00082
+    21300166: BUISSON_06_profil_10_00083
+    21300168: BUISSON_06_profil_10_00084
+    21300170: BUISSON_06_profil_10_00085
+    21300172: BUISSON_06_profil_10_00086
+    21300174: BUISSON_06_profil_10_00087
+    21300176: BUISSON_06_profil_10_00088
+    21300178: BUISSON_06_profil_10_00089
+    21300180: BUISSON_06_profil_10_00090
+    21300182: BUISSON_06_profil_10_00091
+    21300184: BUISSON_06_profil_10_00092
+    21300186: BUISSON_06_profil_10_00093
+    21300188: BUISSON_06_profil_10_00094
+    21300190: BUISSON_06_profil_10_00095
+    21300192: BUISSON_06_profil_10_00096
+    21300194: BUISSON_06_profil_10_00097
+    21300196: BUISSON_06_profil_10_00098
+    21300198: BUISSON_06_profil_10_00099
+    21300200: BUISSON_06_profil_10_00100
+    21300202: BUISSON_06_profil_10_00101
+    21300204: BUISSON_06_profil_10_00102
+    21300206: BUISSON_06_profil_10_00103
+    21300208: BUISSON_06_profil_10_00104
+    21300210: BUISSON_06_profil_10_00105
+    21300212: BUISSON_06_profil_10_00106
+    21300214: BUISSON_06_profil_10_00107
+    21300216: BUISSON_06_profil_10_00108
+    21300218: BUISSON_06_profil_10_00109
+    21300220: BUISSON_06_profil_10_00110
+    21300222: BUISSON_06_profil_10_00111
+    21300224: BUISSON_06_profil_10_00112
+    21300226: BUISSON_06_profil_10_00113
+    21300228: BUISSON_06_profil_10_00114
+    21300230: BUISSON_06_profil_10_00115
+    21300232: BUISSON_06_profil_10_00116
+    21300234: BUISSON_06_profil_10_00117
+    21300236: BUISSON_06_profil_10_00118
+    21300238: BUISSON_06_profil_10_00119
+    21300240: BUISSON_06_profil_10_00120
+    21300242: BUISSON_06_profil_10_00121
+    21300244: BUISSON_06_profil_10_00122
+    21300246: BUISSON_06_profil_10_00123
+    21300248: BUISSON_06_profil_10_00124
+    21300250: BUISSON_06_profil_10_00125
+    21300252: BUISSON_06_profil_10_00126
+    21300254: BUISSON_06_profil_10_00127
+    21300256: BUISSON_06_profil_10_00128
+    21300258: BUISSON_06_profil_10_00129
+    21300260: BUISSON_06_profil_10_00130
+    21300262: BUISSON_06_profil_10_00131
+    21300264: BUISSON_06_profil_10_00132
+    21300266: BUISSON_06_profil_10_00133
+    21300268: BUISSON_06_profil_10_00134
+    21300270: BUISSON_06_profil_10_00135
+    21300272: BUISSON_06_profil_10_00136
+    21300274: BUISSON_06_profil_10_00137
+    21300276: BUISSON_06_profil_10_00138
+    21300278: BUISSON_06_profil_10_00139
+    21300280: BUISSON_06_profil_10_00140
+    21300282: BUISSON_06_profil_10_00141
+    21300284: BUISSON_06_profil_10_00142
+    21300286: BUISSON_06_profil_10_00143
+    21300288: BUISSON_06_profil_10_00144
+    21300290: BUISSON_06_profil_10_00145
+    21300292: BUISSON_06_profil_10_00146
+    21300294: BUISSON_06_profil_10_00147
+    21300296: BUISSON_06_profil_10_00148
+    21300298: BUISSON_06_profil_10_00149
+    21300300: BUISSON_06_profil_10_00150
+    21300302: BUISSON_06_profil_10_00151
+    21300304: BUISSON_06_profil_10_00152
+    21300306: BUISSON_06_profil_10_00153
+    21300308: BUISSON_06_profil_10_00154
+    21300310: BUISSON_06_profil_10_00155
+    21300312: BUISSON_06_profil_10_00156
+    21300314: BUISSON_06_profil_10_00157
+    21300316: BUISSON_06_profil_10_00158
+    21300318: BUISSON_06_profil_10_00159
+    21300320: BUISSON_06_profil_10_00160
+    21300322: BUISSON_06_profil_10_00161
+    21300324: BUISSON_06_profil_10_00162
+    21300326: BUISSON_06_profil_10_00163
+    21300328: BUISSON_06_profil_10_00164
+    21300330: BUISSON_06_profil_10_00165
+    21300332: BUISSON_06_profil_10_00166
+    21300334: BUISSON_06_profil_10_00167
+    21300336: BUISSON_06_profil_10_00168
+    21300338: BUISSON_06_profil_10_00169
+    21300340: BUISSON_06_profil_10_00170
+    21300342: BUISSON_06_profil_10_00171
+    21300344: BUISSON_06_profil_10_00172
+    21300346: BUISSON_06_profil_10_00173
+    21300348: BUISSON_06_profil_10_00174
+    21300350: BUISSON_06_profil_10_00175
+    21300352: BUISSON_06_profil_10_00176
+    21300354: BUISSON_06_profil_10_00177
+    21300356: BUISSON_06_profil_10_00178
+    21300358: BUISSON_06_profil_10_00179
+    21300360: BUISSON_06_profil_10_00180
+    21300362: BUISSON_06_profil_10_00181
+    21300364: BUISSON_06_profil_10_00182
+    21300366: BUISSON_06_profil_10_00183
+    21300368: BUISSON_06_profil_10_00184
+    21300370: BUISSON_06_profil_10_00185
+    21300372: BUISSON_06_profil_10_00186
+    21300374: BUISSON_06_profil_10_00187
+    21300376: BUISSON_06_profil_10_00188
+    21300378: BUISSON_06_profil_10_00189
+    21300380: BUISSON_06_profil_10_00190
+    21300382: BUISSON_06_profil_10_00191
+    21300384: BUISSON_06_profil_10_00192
+    21300386: BUISSON_06_profil_10_00193
+    21300388: BUISSON_06_profil_10_00194
+    21300390: BUISSON_06_profil_10_00195
+    21300392: BUISSON_06_profil_10_00196
+    21300394: BUISSON_06_profil_10_00197
+    21300396: BUISSON_06_profil_10_00198
+    21300398: BUISSON_06_profil_10_00199
+    21300400: BUISSON_06_profil_10_00200
+    21300402: BUISSON_06_profil_10_00201
+    21300404: BUISSON_06_profil_10_00202
+    21300406: BUISSON_06_profil_10_00203
+    21300408: BUISSON_06_profil_10_00204
+    21300410: BUISSON_06_profil_10_00205
+    21300412: BUISSON_06_profil_10_00206
+    21300414: BUISSON_06_profil_10_00207
+    21300416: BUISSON_06_profil_10_00208
+    21300418: BUISSON_06_profil_10_00209
+    21300420: BUISSON_06_profil_10_00210
+    21300422: BUISSON_06_profil_10_00211
+    21300424: BUISSON_06_profil_10_00212
+    21300426: BUISSON_06_profil_10_00213
+    21300428: BUISSON_06_profil_10_00214
+    21300430: BUISSON_06_profil_10_00215
+    21300432: BUISSON_06_profil_10_00216
+    21300434: BUISSON_06_profil_10_00217
+    21300436: BUISSON_06_profil_10_00218
+    21300438: BUISSON_06_profil_10_00219
+    21300440: BUISSON_06_profil_10_00220
+    21300442: BUISSON_06_profil_10_00221
+    21300444: BUISSON_06_profil_10_00222
+    21300446: BUISSON_06_profil_10_00223
+    21300448: BUISSON_06_profil_10_00224
+    21300450: BUISSON_06_profil_10_00225
+    21300452: BUISSON_06_profil_10_00226
+    21300454: BUISSON_06_profil_10_00227
+    21300456: BUISSON_06_profil_10_00228
+    21300458: BUISSON_06_profil_10_00229
+    21300460: BUISSON_06_profil_10_00230
+    21300462: BUISSON_06_profil_10_00231
+    21300464: BUISSON_06_profil_10_00232
+    21300466: BUISSON_06_profil_10_00233
+    21300468: BUISSON_06_profil_10_00234
+    21300470: BUISSON_06_profil_10_00235
+    21300472: BUISSON_06_profil_10_00236
+    21300474: BUISSON_06_profil_10_00237
+    21300476: BUISSON_06_profil_10_00238
+    21300478: BUISSON_06_profil_10_00239
+    21300480: BUISSON_06_profil_10_00240
+    21300482: BUISSON_06_profil_10_00241
+    21300484: BUISSON_06_profil_10_00242
+    21300486: BUISSON_06_profil_10_00243
+    21300488: BUISSON_06_profil_10_00244
+    21300490: BUISSON_06_profil_10_00245
+    21300492: BUISSON_06_profil_10_00246
+    21300494: BUISSON_06_profil_10_00247
+    21300496: BUISSON_06_profil_10_00248
+    21300498: BUISSON_06_profil_10_00249
+    21300500: BUISSON_06_profil_10_00250
+    21300502: BUISSON_06_profil_10_00251
+    21300504: BUISSON_06_profil_10_00252
+    21300506: BUISSON_06_profil_10_00253
+    21300508: BUISSON_06_profil_10_00254
+    21300510: BUISSON_06_profil_10_00255
+    21300512: BUISSON_06_profil_10_00256
+    21300514: BUISSON_06_profil_10_00257
+    21300516: BUISSON_06_profil_10_00258
+    21300518: BUISSON_06_profil_10_00259
+    21300520: BUISSON_06_profil_10_00260
+    21300522: BUISSON_06_profil_10_00261
+    21300524: BUISSON_06_profil_10_00262
+    21300526: BUISSON_06_profil_10_00263
+    21300528: BUISSON_06_profil_10_00264
+    21300530: BUISSON_06_profil_10_00265
+    21300532: BUISSON_06_profil_10_00266
+    21300534: BUISSON_06_profil_10_00267
+    21300536: BUISSON_06_profil_10_00268
+    21300538: BUISSON_06_profil_10_00269
+    21300540: BUISSON_06_profil_10_00270
+    21300542: BUISSON_06_profil_10_00271
+    21300544: BUISSON_06_profil_10_00272
+    21300546: BUISSON_06_profil_10_00273
+    21300548: BUISSON_06_profil_10_00274
+    21300550: BUISSON_06_profil_10_00275
+    21300552: BUISSON_06_profil_10_00276
+    21300554: BUISSON_06_profil_10_00277
+    21300556: BUISSON_06_profil_10_00278
+    21300558: BUISSON_06_profil_10_00279
+    21300560: BUISSON_06_profil_10_00280
+    21300562: BUISSON_06_profil_10_00281
+    21300564: BUISSON_06_profil_10_00282
+    21300566: BUISSON_06_profil_10_00283
+    21300568: BUISSON_06_profil_10_00284
+    21300570: BUISSON_06_profil_10_00285
+    21300572: BUISSON_06_profil_10_00286
+    21300574: BUISSON_06_profil_10_00287
+    21300576: BUISSON_06_profil_10_00288
+    21300578: BUISSON_06_profil_10_00289
+    21300580: BUISSON_06_profil_10_00290
+    21300582: BUISSON_06_profil_10_00291
+    21300584: BUISSON_06_profil_10_00292
+    21300586: BUISSON_06_profil_10_00293
+    21300588: BUISSON_06_profil_10_00294
+    21300590: BUISSON_06_profil_10_00295
+    21300592: BUISSON_06_profil_10_00296
+    21300594: BUISSON_06_profil_10_00297
+    21300596: BUISSON_06_profil_10_00298
+    21300598: BUISSON_06_profil_10_00299
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00000
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1651
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 146, y: -145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18560da3507cee441b262198c08393cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00001
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1651
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 146, y: -145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8a20db3f42dfa47abd64c647a9c929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00002
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1651
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 146, y: -145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330a27ba196811b448d9ae5fc532efdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00003
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1651
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 146, y: -145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10579cb253eaebb4fbdb71673736e669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00004
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1651
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 146, y: -145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e46ebb837e254d468aefdb649d0b793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00005
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1651
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 146, y: -145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5fcec7cd258ef4087c1f3b985fd492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00006
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1651
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 146, y: -145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3490d28119469469afc1ecdd4e7f45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00007
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1651
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 146, y: -145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526598281ff46d64fa36f274b017e714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00008
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1518
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628614341262ac14c826831112de4caa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00009
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 137
+        width: 3
+        height: 4
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60655989330912c4aabbcf2d939f48b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00010
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1154
+        width: 3
+        height: 4
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d628a5088041648986989f18893cee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00011
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 896
+        width: 3
+        height: 4
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a0be93c92c7584bb34fa32e1a6c456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00012
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 864
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e148e71ab3051ad4a90cf14813f36919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00013
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1613
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a252e6ca517b554d925a79658be0452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00014
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1514
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.125, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529181d597b9d304dae8dba77b5d6650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00015
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1003
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.125, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbab168dab585148b795efe4e50f007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00016
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1130
+        width: 4
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a83bb896901544692d460ac40f6150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00017
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 193
+        width: 4
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87861e46cf3b97044a057ad2427bf250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00018
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 862
+        width: 4
+        height: 5
+      alignment: 9
+      pivot: {x: 0.25, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e085fc38ec6f1de41a9bd14c36a7764b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00019
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1391
+        width: 7
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.64285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fcaadeeb5c0394490b5e83084dff85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00020
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 882
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10ce8e360503914b8470e3579464e08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00021
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 110
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0556cfe0ce2784aadd58ffbf81f99a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00022
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 467
+        width: 12
+        height: 8
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd5640aff11fc948b307e03b164adb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00023
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1647
+        width: 7
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07a44169045b524b86b216208a66d70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00024
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 248
+        width: 14
+        height: 10
+      alignment: 9
+      pivot: {x: 0.35714287, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcd9d6570be2ab4e9ecb15d3a163d4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00025
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1
+        width: 14
+        height: 10
+      alignment: 9
+      pivot: {x: 0.35714287, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23222f5e0ded50e4d9b1401f0b3593f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00026
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 240
+        width: 14
+        height: 10
+      alignment: 9
+      pivot: {x: 0.35714287, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fba720554edd04c91332931fbfed2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00027
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1407
+        width: 7
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5fd5dc0e60efa44ac50c82ac54ab34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00028
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1434
+        width: 7
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3676f1eded79fe4fa2a4267e208497b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00029
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1610
+        width: 20
+        height: 26
+      alignment: 9
+      pivot: {x: 0.65, y: 0.115384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255da19a443895b40bb8987ad8b80d33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00030
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 853
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f746012af325f45885748413778584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00031
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 463
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0.14285715, y: 0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dc01ab715c91340a4549b4ff39e759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00032
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1303
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2925716562cb1004a8beba34077139e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00033
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 702
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.13333334, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ded400f648c9f24eacd5673d761cc79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00034
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1523
+        width: 6
+        height: 11
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74af21d835816814a9700e2f3d1d33de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00035
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 473
+        width: 6
+        height: 11
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fac6d5e8c4003446a337f0e573f6cc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00036
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 367
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.125, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1d0633a749a634eb8e8d285ba04372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00037
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 739
+        width: 6
+        height: 12
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8497abcfcfc7d0349b01aa34988d85c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00038
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 739
+        width: 6
+        height: 12
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6743179e68dd78d4e83d791a68fcd382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00039
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 582
+        width: 17
+        height: 17
+      alignment: 9
+      pivot: {x: 0.11764706, y: 0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbf332dba36c1d4688730050682a65f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00040
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 719
+        width: 6
+        height: 13
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.07692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4685b93281c7c124596987294d8d5045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00041
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 486
+        width: 13
+        height: 19
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800f24746f43f3b41bf254afb460f3bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00042
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 23
+        height: 40
+      alignment: 9
+      pivot: {x: 0.7826087, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118568d479e79fa4995855d24c53fc4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00043
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 347
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.11111111, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2876f2941a85e4eb1bfffad988032b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00044
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1252
+        width: 6
+        height: 14
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df17b0be209e52348874d90ad2702e43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00045
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1
+        width: 19
+        height: 19
+      alignment: 9
+      pivot: {x: 0.10526316, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549d5b1f5151e6046918dbd668fd2969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00046
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1465
+        width: 6
+        height: 15
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9707af6e17f2dae4699d7a374a57289d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00047
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 741
+        width: 12
+        height: 30
+      alignment: 9
+      pivot: {x: 0.16666667, y: 0.033333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fe9c76af2b1c54fa598a3098e32435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00048
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1754
+        width: 6
+        height: 16
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57897a6811d06ba4c9dcb07df7a3ed5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00049
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 507
+        width: 13
+        height: 32
+      alignment: 9
+      pivot: {x: 0.15384616, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c1123a9c9ba3443acf1964cc0e298d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00050
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 734
+        width: 7
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.62}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7bc73db1308dc49baf7ea4b8da3c22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00051
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 237
+        width: 19
+        height: 22
+      alignment: 9
+      pivot: {x: 0.21052632, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b08a635ecf0564a81037cf44b61d92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00052
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 353
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.21428572, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa64c52cc185b7449e584c9a98a39f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00053
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 753
+        width: 14
+        height: 31
+      alignment: 9
+      pivot: {x: 0.35714287, y: 0.19354838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465122c6195021f44bc0ba175e5aee2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00054
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 130
+        width: 6
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6805556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7790374c09f495d40b21cfc14fc91896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00055
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 753
+        width: 14
+        height: 31
+      alignment: 9
+      pivot: {x: 0.35714287, y: 0.16129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d29c3ab349aad242b6fdd7b6daade88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00056
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 14
+        width: 8
+        height: 32
+      alignment: 9
+      pivot: {x: 0.125, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e178bad4ce3bf4bbc671029178efe0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00057
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1812
+        width: 8
+        height: 32
+      alignment: 9
+      pivot: {x: 0.125, y: 0.34375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146730f7d9f85204eaf686752b25a471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00058
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1268
+        width: 6
+        height: 45
+      alignment: 9
+      pivot: {x: 0.16666667, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c330e22241e600f4a999193d647e6d5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00059
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1040
+        width: 5
+        height: 60
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d995fcc212e814395afd28e7dff6f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00060
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1013
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455d3c2dac940004db97c2dc2b55c94b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00061
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1191
+        width: 5
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2, y: 0.53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3463197cfb59a441b7e7f9883a06463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00062
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1554
+        width: 7
+        height: 46
+      alignment: 9
+      pivot: {x: 0.14285715, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0f4aa5e71da8f4f84f8936e291591a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00063
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 1895
+        width: 7
+        height: 47
+      alignment: 9
+      pivot: {x: 0.14285715, y: 0.40425533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881f4337e112a724aa6ac4e5f48e5162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00064
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1655
+        width: 10
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4, y: 0.35416666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f311c64f02155c44a6490487a7fc3d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00065
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 88
+        width: 7
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.5882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7988c671055f9488fafd909978b155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00066
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1304
+        width: 7
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.5507246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e58a3dc59823cd4ab47c218972359bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00067
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 773
+        width: 12
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77f25a8a7cea5548b01c872041a6527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00068
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1303
+        width: 11
+        height: 65
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.43076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4db099c33d00fc4b88c552cf9ca0a35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00069
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1417
+        width: 9
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.5857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf983b0c50d0604aa895d26f285283d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00070
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 481
+        width: 10
+        height: 67
+      alignment: 9
+      pivot: {x: 0.6, y: 0.53731346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69284ca31b236c041b3e6ecd55eff36b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00071
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 319
+        width: 14
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.37931034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d49aaaf6cf2cf41b90b2a5f29f7925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00072
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 260
+        width: 14
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.36842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835e4a117d9f1cd4b8989428ade3a9f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00073
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1249
+        width: 7
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.030303031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c3461704c607d47b2ae0f5e0bc1c73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00074
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1536
+        width: 15
+        height: 64
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.203125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e3f9a02eb481e4eb0f33effb44b624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00075
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1907
+        width: 9
+        height: 35
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.028571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c3edeea8ec4444598e89fc87fecccb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00076
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 364
+        width: 13
+        height: 83
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.55421686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84430bb6123358b4a8d4b8c992a379d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00077
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 1955
+        width: 18
+        height: 92
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.26086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4725e68f83eb5f347bdda097b5c25294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00078
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 77
+        width: 18
+        height: 79
+      alignment: 9
+      pivot: {x: 0.22222222, y: 0.025316456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5487793100ea3394e9ce7d3f666abeb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00079
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 153
+        width: 20
+        height: 88
+      alignment: 9
+      pivot: {x: 0.6, y: 0.23863636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fa996da275a1e458bf3c2a19fbb792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00080
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1520
+        width: 11
+        height: 39
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.025641026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e129c3e85bf61488a84cd7bb452dff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00081
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 266
+        width: 11
+        height: 40
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831d8c24e6a9cf6408401b358c3e4d58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00082
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 375
+        width: 11
+        height: 41
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.024390243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db644c86e8dc1804b9865000a4198d67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00083
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 150
+        width: 18
+        height: 91
+      alignment: 9
+      pivot: {x: 0.3888889, y: 0.4065934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2c4c7ae7de77c41ba00454e7064353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00084
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 114
+        width: 19
+        height: 88
+      alignment: 9
+      pivot: {x: 0.42105263, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41283c95d804bd45847588beb6a76e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00085
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 541
+        width: 13
+        height: 43
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc79c14a60eb13c488a4fc2618ad174e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00086
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1
+        width: 26
+        height: 75
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.18666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178ccb937ff25d24a990a7c61c744aaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00087
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1
+        width: 23
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a200ff5585d1ba4aa9e8b44df7e4532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00088
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1245
+        width: 28
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.19117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c019f7a5a8d49454fb29700315c65654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00089
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 1907
+        width: 15
+        height: 46
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32b803ad6cd830499c0cedf23cf5932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00090
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1
+        width: 24
+        height: 75
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.34666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9104d2bf3ca0d6a43bc4d5d3a50a2fec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00091
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 960
+        width: 21
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c3749de38480a4aa34f8cc874e7145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00092
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 550
+        width: 16
+        height: 49
+      alignment: 9
+      pivot: {x: 0.4375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cfadec7e412814899ac6fbd364890f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00093
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 111
+        width: 17
+        height: 49
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8a04e51a858074584fccbcadea4e51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00094
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1944
+        width: 17
+        height: 50
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd76bad5780b6c647bba1a4e3c556d36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00095
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1996
+        width: 17
+        height: 51
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c4386fd3abd35438e123624062d041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00096
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1
+        width: 29
+        height: 75
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0.29333332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a4ff6a3d910a0459657a8d023fef12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00097
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1650
+        width: 19
+        height: 53
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5a9f2b99a4afd40a2659d364b0d0f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00098
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 2
+        width: 35
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.12698413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10338c1179a13f449bb6c5d021c6c8ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00099
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1246
+        width: 20
+        height: 55
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81391a38a41fd941991b287c09a8899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00100
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 961
+        width: 36
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.17391305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34176075da99f1f4baa3339978b8d067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00101
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 6
+        width: 38
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.15714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a4b851957f73b4bb968beb6e96fd3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00102
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1846
+        width: 22
+        height: 59
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.016949153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59733a6326b64245ba9592dd5944487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00103
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1253
+        width: 23
+        height: 60
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.016666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73331519e26a75e4f9fadf4d8e74673d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00104
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 14
+        width: 23
+        height: 61
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.016393442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cc9f4ea7de50d41a9324d48d69f60a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00105
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 3
+        width: 24
+        height: 62
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.016129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e687fce84df498443a31aa5a191c8391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00106
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 13
+        width: 24
+        height: 63
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.015873017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1c512fc3253bd408ce5d643ca9e1b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00107
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1561
+        width: 42
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14942528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bd23309dd08df4085f4ef28fcc9a0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00108
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 58
+        width: 43
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.13253012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e115b4f09057d284baafe54a1b15cb81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00109
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 162
+        width: 41
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5365854, y: 0.23404256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d583d39eeb32de42a553d6c03f69188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00110
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 953
+        width: 38
+        height: 77
+      alignment: 9
+      pivot: {x: 0.6315789, y: 0.051948052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceecd1f6aa0ff8a4e92b30a3b4693586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00111
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1705
+        width: 32
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.04225352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb9b1f684bad594e9166e2805be5067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00112
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 57
+        width: 48
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0abf24546f15c84a90e138ea5c1e9e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00113
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 379
+        width: 43
+        height: 98
+      alignment: 9
+      pivot: {x: 0.44186047, y: 0.26530612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e3ea253dc59fb49877e33cfcf98310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00114
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 242
+        width: 39
+        height: 103
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.2038835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d3d79a18a63ec4c8df9c5be859ee34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00115
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 348
+        width: 39
+        height: 109
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.20183486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdeaabfa71cfe3849ad0562fa0f4e608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00116
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 154
+        width: 44
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.104166664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7d691365efb1849b165fdc6713b589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00117
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 45
+        width: 53
+        height: 87
+      alignment: 9
+      pivot: {x: 0.4716981, y: 0.11494253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebe72f3875409f469f8cf348c23fda9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00118
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 43
+        width: 45
+        height: 89
+      alignment: 9
+      pivot: {x: 0.37777779, y: 0.11235955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a281511ef81c7e24484b51f26d2583d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00119
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 18
+        width: 57
+        height: 90
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a81c69253eea5649a5ae54e709d086a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00120
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 46
+        width: 43
+        height: 89
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.11235955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5655c88abdb2a904fbd2e162a72afa25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00121
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 479
+        width: 48
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.089108914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd363d238b3467746a6bb47c23f6ed10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00122
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 601
+        width: 56
+        height: 99
+      alignment: 9
+      pivot: {x: 0.51785713, y: 0.1919192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be124bab7b24ba94fb7dc0f57891ec89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00123
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 18
+        width: 48
+        height: 90
+      alignment: 9
+      pivot: {x: 0.47916666, y: 0.07777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2f0269edf4f0a48a56ed4be277e227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00124
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 110
+        width: 64
+        height: 92
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.097826086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb54a519c448bc5488a88df28e26e05b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00125
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 143
+        width: 62
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11340206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d26f8640fac544dac0686282beed40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00126
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 67
+        width: 56
+        height: 89
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.04494382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8971814ed6fd6e34fb1f77e7e950920c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00127
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1419
+        width: 70
+        height: 97
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.082474224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2a94233a6317e41b1d829dc6c99cf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00128
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 127
+        width: 63
+        height: 108
+      alignment: 9
+      pivot: {x: 0.4920635, y: 0.19444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec2a819d2a4cbc44826a5d8432edda6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00129
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 786
+        width: 66
+        height: 114
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.19298245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a356df99cb2e94895a9a08fa08a20c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00130
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 137
+        width: 61
+        height: 98
+      alignment: 9
+      pivot: {x: 0.4262295, y: 0.091836736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6640c7798304dc44e86f949551d7d3cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00131
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 385
+        width: 65
+        height: 101
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.0990099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fc91f7dc23ca644b5f3fb048566d53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00132
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 243
+        width: 73
+        height: 103
+      alignment: 9
+      pivot: {x: 0.46575344, y: 0.116504855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85322f46c6f48dc489c2d8a5111cfd5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00133
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1315
+        width: 68
+        height: 102
+      alignment: 9
+      pivot: {x: 0.44117647, y: 0.11764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f763787ac56d04d9af209f10162231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00134
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 22
+        width: 77
+        height: 103
+      alignment: 9
+      pivot: {x: 0.4935065, y: 0.097087376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc46d77d397cbab44917acdbc0cff5a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00135
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 902
+        width: 79
+        height: 103
+      alignment: 9
+      pivot: {x: 0.48101267, y: 0.097087376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a276722eb4de14eb2be1cac84ebb0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00136
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 252
+        width: 75
+        height: 102
+      alignment: 9
+      pivot: {x: 0.44, y: 0.09803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9724f518dccb22f47835b3cdfc6bf60c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00137
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 134
+        width: 77
+        height: 101
+      alignment: 9
+      pivot: {x: 0.44155845, y: 0.07920792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c046c3b3844a7c4c9fb8f386a70cf6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00138
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 127
+        width: 88
+        height: 103
+      alignment: 9
+      pivot: {x: 0.4659091, y: 0.067961164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9584210e1b6b8c49866ddc10c42768d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00139
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 258
+        width: 81
+        height: 102
+      alignment: 9
+      pivot: {x: 0.45679012, y: 0.068627454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b2ad10ea443a846b67e8db32b823b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00140
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 158
+        width: 85
+        height: 101
+      alignment: 9
+      pivot: {x: 0.44705883, y: 0.05940594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05f9d06217214842bdcc093c9be6268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00141
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 204
+        width: 88
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4431818, y: 0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101448b62b0495c47b4ea8e98e7389c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00142
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1032
+        width: 90
+        height: 103
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.058252428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338cba9462b56af4cb8cf3b77b6e7315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00143
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 261
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4408602, y: 0.057692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb2722863e82804ab2b4c0b74933da7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00144
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 127
+        width: 95
+        height: 103
+      alignment: 9
+      pivot: {x: 0.44210526, y: 0.048543688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff6cc1e78c4fea48b7e14454132980e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00145
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 308
+        width: 96
+        height: 108
+      alignment: 9
+      pivot: {x: 0.44791666, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a998f7d6234952b4b884eddebeb2c79b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00146
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 362
+        width: 95
+        height: 109
+      alignment: 9
+      pivot: {x: 0.4631579, y: 0.04587156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f02605ffb241942881423947ac4534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00147
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1137
+        width: 92
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fb676a751afd14aa997586840e5a74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00148
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 237
+        width: 93
+        height: 108
+      alignment: 9
+      pivot: {x: 0.50537634, y: 0.06481481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1a912ad97a2374f80f13ee9f522335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00149
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 418
+        width: 109
+        height: 107
+      alignment: 9
+      pivot: {x: 0.44954127, y: 0.046728972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df78457549edef4ea8db17751726a31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00150
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 640
+        width: 106
+        height: 111
+      alignment: 9
+      pivot: {x: 0.4716981, y: 0.045045044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327c8e45c46cadf48bba2ef629dac197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00151
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 347
+        width: 105
+        height: 110
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.06363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e9754231beafa43a9570c6d8b9ae0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00152
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 367
+        width: 107
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5233645, y: 0.046296295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea9abfeaae30b44e814318d2576bbe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00153
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 527
+        width: 106
+        height: 111
+      alignment: 9
+      pivot: {x: 0.509434, y: 0.06306306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9a2041a010e864d85e4c27d3943236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00154
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 602
+        width: 120
+        height: 115
+      alignment: 9
+      pivot: {x: 0.49166667, y: 0.060869563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30facc9d438247b48b3ab22ce34aa5f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00155
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 582
+        width: 120
+        height: 118
+      alignment: 9
+      pivot: {x: 0.475, y: 0.076271184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2ffb24eb535a14d9e7f3c117b1f124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00156
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 827
+        width: 129
+        height: 123
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.05691057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776caa9fcaeb14a438b1e856b3889066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00157
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 459
+        width: 116
+        height: 121
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.05785124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ae0b6fc4a55df40b67beced7276d64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00158
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 477
+        width: 118
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0.06504065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca065cd637c7c344b864bb8d66f6baf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00159
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 612
+        width: 132
+        height: 125
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6912c965642a74581944e08877396e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00160
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 488
+        width: 126
+        height: 122
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.040983606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499aac9469837e440be7a3fff4c76791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00161
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 702
+        width: 140
+        height: 123
+      alignment: 9
+      pivot: {x: 0.47142857, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5327407b7ed4a894491342f1a38dbb67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00162
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1
+        width: 129
+        height: 121
+      alignment: 9
+      pivot: {x: 0.51937985, y: 0.024793388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd77a8d4daafc14caf90f651811d4f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00163
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1
+        width: 132
+        height: 124
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.04032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534d77946528fd1489a6ebb230610dc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00164
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 874
+        width: 141
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5460993, y: 0.03968254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ae337588b84e6488556232cf23d272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00165
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 831
+        width: 152
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.033613447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b4cca2ed4082a4fb6d3af5f73eded5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00166
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1
+        width: 136
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5147059, y: 0.03305785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c5d79b1313a604f9a33d7dca874855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00167
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 123
+        width: 156
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.034188036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8005abe7e197a45a6dabf012e5c032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00168
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 356
+        width: 160
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0.026086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4212aefd46ad3419d145413aa15f2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00169
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 753
+        width: 149
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5503356, y: 0.016806724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9828ba388ab43d64f8d158b2995fcaf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00170
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 232
+        width: 157
+        height: 122
+      alignment: 9
+      pivot: {x: 0.4968153, y: 0.040983606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ca929097b8a85429107b393f69d598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00171
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 78
+        width: 175
+        height: 110
+      alignment: 9
+      pivot: {x: 0.50857145, y: 0.018181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30c446426b58d649b69f16d46dc5a82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00172
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 352
+        width: 168
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08943089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d423fcb20cb8de74fad54389c792e20c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00173
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 124
+        width: 158
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5506329, y: 0.04464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2ae0cb90ed21048ba110e43eba48ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00174
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 736
+        width: 179
+        height: 112
+      alignment: 9
+      pivot: {x: 0.49162012, y: 0.035714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04088bf0bcaac124bb659afa25b912c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00175
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 719
+        width: 146
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.027272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888d00ac24e066c4cb91c91a3d82ef2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00176
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 11
+        width: 154
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5194805, y: 0.027272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5af1d6e9328534988aa43679e44617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00177
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 179
+        width: 177
+        height: 110
+      alignment: 9
+      pivot: {x: 0.50282484, y: 0.027272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f2b4a1b525fbe4bb4163360fad7649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00178
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 479
+        width: 178
+        height: 119
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.033613447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aeb4173894ecef4d801a90a809e5e20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00179
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 238
+        width: 170
+        height: 112
+      alignment: 9
+      pivot: {x: 0.49411765, y: 0.04464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524d9f57acbdc35409632d7c9fa75890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00180
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 355
+        width: 173
+        height: 122
+      alignment: 9
+      pivot: {x: 0.4913295, y: 0.040983606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a082f68cf1bfeb4fb092ccf395b421b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00181
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 620
+        width: 181
+        height: 114
+      alignment: 9
+      pivot: {x: 0.47513813, y: 0.04385965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23aa865094e8c164c85b4c93c8500085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00182
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 180
+        width: 179
+        height: 112
+      alignment: 9
+      pivot: {x: 0.49720672, y: 0.04464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaeaa41bd2057144ac81fc78c7c1c47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00183
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 750
+        width: 181
+        height: 112
+      alignment: 9
+      pivot: {x: 0.49723756, y: 0.04464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5ba3b397bedc846b20c8d6dfaf218a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00184
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 242
+        width: 173
+        height: 111
+      alignment: 9
+      pivot: {x: 0.47976878, y: 0.027027028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d8dc6c33cfd6342a01f21468e4a741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00185
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 477
+        width: 173
+        height: 115
+      alignment: 9
+      pivot: {x: 0.47398844, y: 0.060869563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fb688b275ae5646a4804d7857bf90f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00186
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 506
+        width: 182
+        height: 112
+      alignment: 9
+      pivot: {x: 0.46703297, y: 0.026785715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0f1a41456d1b84681d26ead9984e20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00187
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 449
+        width: 183
+        height: 111
+      alignment: 9
+      pivot: {x: 0.49726775, y: 0.027027028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df079633bb68d7b45b044cc63facbd13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00188
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 739
+        width: 179
+        height: 112
+      alignment: 9
+      pivot: {x: 0.47486034, y: 0.026785715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc47da6ce95cd1347a5d8adc299caddd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00189
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 473
+        width: 171
+        height: 111
+      alignment: 9
+      pivot: {x: 0.50877196, y: 0.018018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c529cb72109d1f24f95a491adf55c970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00190
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 739
+        width: 179
+        height: 111
+      alignment: 9
+      pivot: {x: 0.51955307, y: 0.027027028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5e373971cf56e478bb9a90cb8bfdb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00191
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 190
+        width: 173
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5086705, y: 0.026785715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc3c6c2f583173438848055e6d0169a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00192
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1780
+        width: 195
+        height: 115
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.026086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fe46c38c5027646a53c7ebcca56f6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00193
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 758
+        width: 185
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.035714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c180eb837cbbee34e8eea46455dfee74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00194
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 758
+        width: 184
+        height: 110
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.027272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434f6eac18fcd354f9e4d429dc6d05d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00195
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1554
+        width: 192
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5260417, y: 0.018181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defdc05e9aee2764ea59b3df39c3f042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00196
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1666
+        width: 193
+        height: 112
+      alignment: 9
+      pivot: {x: 0.46632123, y: 0.035714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f1fe750e6c65e4b92f335601c58ae0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00197
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1785
+        width: 198
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.067226894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd144fe358199a049aebc3801b0c349c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00198
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1284
+        width: 188
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4893617, y: 0.017857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38ad9a56f67947449e143c464d912a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00199
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1398
+        width: 189
+        height: 123
+      alignment: 9
+      pivot: {x: 0.4920635, y: 0.10569106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded1cd3328f2d324ea90e0cc8b789be6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00200
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1489
+        width: 190
+        height: 111
+      alignment: 9
+      pivot: {x: 0.48947367, y: 0.009009009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e5a18d2ffaa334a93e83bff96ff4ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00201
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1785
+        width: 203
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5270936, y: 0.017699115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d103d7bef88234da04d9cf4bdb3994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00202
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1375
+        width: 190
+        height: 112
+      alignment: 9
+      pivot: {x: 0.48421052, y: 0.035714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37bab7981512094490292fa5bd4bde6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00203
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1257
+        width: 190
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48947367, y: 0.05172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de958b0fbf2fe6a448c358ae4493362d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00204
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1244
+        width: 188
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.12903225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af5c4edc6018ce4fb4fa01cddab1196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00205
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1002
+        width: 190
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06896552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f83281dd92581848999c2de9cc5e9d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00206
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1407
+        width: 191
+        height: 115
+      alignment: 9
+      pivot: {x: 0.486911, y: 0.069565214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d291afa05705b234fafd857e5673c6e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00207
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1391
+        width: 191
+        height: 119
+      alignment: 9
+      pivot: {x: 0.486911, y: 0.075630255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1578f407aa70f834f9132b57c637caf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00208
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1429
+        width: 192
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: 0.10569106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c7b3c66a39a4949b06a28146253462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00209
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1309
+        width: 192
+        height: 118
+      alignment: 9
+      pivot: {x: 0.48958334, y: 0.10169491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5886993a2dd524d8c9543e6fd43880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00210
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1619
+        width: 194
+        height: 122
+      alignment: 9
+      pivot: {x: 0.49484536, y: 0.10655738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2049e96c7a2b7944b04818d027c3cb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00211
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1524
+        width: 192
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0.10743801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f8e0e974c716e47afa956ac5db0c59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00212
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1512
+        width: 192
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12096774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ddfd3687453a344acfd1b70b01a291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00213
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1778
+        width: 202
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5148515, y: 0.12903225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8805be82873794ea8e83c90f6031ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00214
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1283
+        width: 191
+        height: 122
+      alignment: 9
+      pivot: {x: 0.4921466, y: 0.13934426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6463c5ae53f977449f27890c8e97699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00215
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1160
+        width: 191
+        height: 121
+      alignment: 9
+      pivot: {x: 0.4921466, y: 0.1570248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d17d6708aebeee4c8b4203d5b8216e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00216
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1266
+        width: 191
+        height: 123
+      alignment: 9
+      pivot: {x: 0.4921466, y: 0.16260162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5acb234ccd5cbd4983df0aa9d7d0b60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00217
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1137
+        width: 191
+        height: 127
+      alignment: 9
+      pivot: {x: 0.486911, y: 0.15748031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8755c44f273cbab4392ac14fe0bc9e7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00218
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1157
+        width: 188
+        height: 125
+      alignment: 9
+      pivot: {x: 0.49468085, y: 0.168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965dcf0e67fe6c44a91f05e371925857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00219
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1650
+        width: 199
+        height: 126
+      alignment: 9
+      pivot: {x: 0.51758796, y: 0.17460318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855e08bc42b8c054eb1447f3f2c23aea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00220
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1772
+        width: 202
+        height: 126
+      alignment: 9
+      pivot: {x: 0.509901, y: 0.17460318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfcf1d5ca918ed44911b4f6d61dc870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00221
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1654
+        width: 198
+        height: 129
+      alignment: 9
+      pivot: {x: 0.510101, y: 0.18604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0a38409d1f9b948a21a6ac8b271812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00222
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1523
+        width: 195
+        height: 129
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.19379845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb0845b4b1c3cb4da4077c056c1eaed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00223
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1003
+        width: 190
+        height: 132
+      alignment: 9
+      pivot: {x: 0.48421052, y: 0.1969697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d9d2f2a351d234fa9aabd1c4009070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00224
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1518
+        width: 194
+        height: 130
+      alignment: 9
+      pivot: {x: 0.47938144, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9122f707899b18641a01f82dda883cbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00225
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1638
+        width: 198
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21969697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27932ebc237987f4b8bbc613eb82b1f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00226
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1482
+        width: 194
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48453608, y: 0.2074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597cd8b8f885f2243aa00cc98242ddba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00227
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1613
+        width: 193
+        height: 134
+      alignment: 9
+      pivot: {x: 0.4818653, y: 0.20895523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac616e2de0c9e9d47869b723177a82c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00228
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1647
+        width: 199
+        height: 136
+      alignment: 9
+      pivot: {x: 0.49748743, y: 0.22058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458464535f27143489842e9a9c48a72c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00229
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1120
+        width: 190
+        height: 135
+      alignment: 9
+      pivot: {x: 0.47894737, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65e1e465707b5d4782a32ad67813930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00230
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1102
+        width: 188
+        height: 140
+      alignment: 9
+      pivot: {x: 0.4893617, y: 0.20714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a805e14f8cae8aa4aa648f7a98f76da0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00231
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1906
+        width: 198
+        height: 141
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.22695035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7ac5798c365b346afb0478c5815874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00232
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1602
+        width: 193
+        height: 144
+      alignment: 9
+      pivot: {x: 0.4715026, y: 0.21527778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2a618eac431dd4fab9cac5b84240e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00233
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 200
+        width: 194
+        height: 145
+      alignment: 9
+      pivot: {x: 0.46907216, y: 0.2137931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71daa3766640fae408814a77a91523d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00234
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1900
+        width: 195
+        height: 147
+      alignment: 9
+      pivot: {x: 0.47179487, y: 0.21768707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8068060dc395aad41bd9692696aceaf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00235
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1900
+        width: 194
+        height: 147
+      alignment: 9
+      pivot: {x: 0.46391752, y: 0.2244898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518eacbb7e0905a4a8c9273739efb6e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00236
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1894
+        width: 201
+        height: 153
+      alignment: 9
+      pivot: {x: 0.4477612, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a974417fbbb49b44b7d7accc82507ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00237
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 48
+        width: 190
+        height: 150
+      alignment: 9
+      pivot: {x: 0.46842104, y: 0.23333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10e3ed156b0db4478f51049063f75fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00238
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 200
+        width: 192
+        height: 150
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4933490dda2764548865391f7f26c72f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00239
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1900
+        width: 193
+        height: 147
+      alignment: 9
+      pivot: {x: 0.4507772, y: 0.2244898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4febf3144d4e124e9a02727c8d6b00c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00240
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1312
+        width: 190
+        height: 142
+      alignment: 9
+      pivot: {x: 0.46842104, y: 0.2535211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f9913520040a94ea4714b640efe2c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00241
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1897
+        width: 195
+        height: 150
+      alignment: 9
+      pivot: {x: 0.45641026, y: 0.23333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886de6b5ba0aaa94a8c166802ac47492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00242
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1739
+        width: 196
+        height: 153
+      alignment: 9
+      pivot: {x: 0.45408162, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe4d2e87db80c9418d2ac61c79ef652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00243
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1428
+        width: 193
+        height: 153
+      alignment: 9
+      pivot: {x: 0.4611399, y: 0.24183007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dd1593243f72a4585435ef4beb3e5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00244
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1896
+        width: 195
+        height: 151
+      alignment: 9
+      pivot: {x: 0.45128205, y: 0.23178808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835ba25878d70284191463d07afd4de0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00245
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1274
+        width: 194
+        height: 152
+      alignment: 9
+      pivot: {x: 0.45876288, y: 0.23026316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b46cff497cae5b48ae7eed7cd61f631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00246
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 659
+        width: 192
+        height: 152
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.24342105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e3ecf6cacb52d4b946c93e37a33c5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00247
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1120
+        width: 194
+        height: 152
+      alignment: 9
+      pivot: {x: 0.45360824, y: 0.24342105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4a6785a2277614db812244741d84a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00248
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 562
+        width: 183
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4863388, y: 0.24666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14edd37cfe8bf324eb798e0e5524d6b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00249
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1465
+        width: 192
+        height: 146
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.28767124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d560f868f52c845ae3c9325b68e7e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00250
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1018
+        width: 189
+        height: 142
+      alignment: 9
+      pivot: {x: 0.46560848, y: 0.2535211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb73704a22b47d459f2c378abd53f52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00251
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1167
+        width: 190
+        height: 143
+      alignment: 9
+      pivot: {x: 0.45789474, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c7a532ff4565841b0fd76c1290ea57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00252
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1456
+        width: 191
+        height: 144
+      alignment: 9
+      pivot: {x: 0.460733, y: 0.25694445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908423b6c8062c8489e8b327cca4e2c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00253
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1020
+        width: 190
+        height: 145
+      alignment: 9
+      pivot: {x: 0.45789474, y: 0.2551724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83faeae780c80654e97c0e29c519569b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00254
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1749
+        width: 194
+        height: 145
+      alignment: 9
+      pivot: {x: 0.4484536, y: 0.2551724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426043bcf75fe4e46934a4302baf0668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00255
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1894
+        width: 194
+        height: 153
+      alignment: 9
+      pivot: {x: 0.45360824, y: 0.3006536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e022b119ff0d1b46aedb28fb2b83efe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00256
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1013
+        width: 189
+        height: 145
+      alignment: 9
+      pivot: {x: 0.46031746, y: 0.2551724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5151953570b66654bbdde6c7c87b1907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00257
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1753
+        width: 177
+        height: 145
+      alignment: 9
+      pivot: {x: 0.48022598, y: 0.2689655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543e1c9e4ada94b48901ac3f96529c9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00258
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 869
+        width: 187
+        height: 147
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.26530612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb44a734e878f84e929b1bd0f63235e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00259
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1743
+        width: 198
+        height: 149
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.30201343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f8cc3fe64040640b21efc36b855099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00260
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1904
+        width: 196
+        height: 143
+      alignment: 9
+      pivot: {x: 0.47959185, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa291fa07b26304b9a2a5240dedfe1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00261
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 449
+        width: 177
+        height: 152
+      alignment: 9
+      pivot: {x: 0.4858757, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ba65bb84e946e4e8fdc41a863b1197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00262
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 30
+        width: 184
+        height: 147
+      alignment: 9
+      pivot: {x: 0.46195653, y: 0.27210885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c6f8e5c30ce7746b681df6ea0c83db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00263
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 594
+        width: 178
+        height: 143
+      alignment: 9
+      pivot: {x: 0.4775281, y: 0.26573426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08621f2390f13240ba598b6795880d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00264
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 347
+        width: 179
+        height: 157
+      alignment: 9
+      pivot: {x: 0.49720672, y: 0.2866242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec88b45e1bb57f44c87adcde89f1298f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00265
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 966
+        width: 194
+        height: 152
+      alignment: 9
+      pivot: {x: 0.46391752, y: 0.29605263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf590bb27b013e40bd3986fca38ef8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00266
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1896
+        width: 196
+        height: 151
+      alignment: 9
+      pivot: {x: 0.44387755, y: 0.29139072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d4903244309d645a9d515963e64b06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00267
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 291
+        width: 176
+        height: 156
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0.25641027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9159fa32833f1db4ca19e567c1d2ae0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00268
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 457
+        width: 176
+        height: 147
+      alignment: 9
+      pivot: {x: 0.48863637, y: 0.27210885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2975b10833ed5814fba1048473b78741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00269
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 505
+        width: 191
+        height: 152
+      alignment: 9
+      pivot: {x: 0.45026177, y: 0.29605263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48426aecec78dc840891c979e6c9c09c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00270
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1162
+        width: 190
+        height: 145
+      alignment: 9
+      pivot: {x: 0.48947367, y: 0.26206896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2287d0ddb5c1724ab1e2ce1ac71f1ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00271
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1007
+        width: 188
+        height: 148
+      alignment: 9
+      pivot: {x: 0.4574468, y: 0.27702704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8ddc866bbf7a24c982309cfc72c57a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00272
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1748
+        width: 193
+        height: 146
+      alignment: 9
+      pivot: {x: 0.4974093, y: 0.26027396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a38734fc9acd364586ad3b1a946add5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00273
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1316
+        width: 192
+        height: 147
+      alignment: 9
+      pivot: {x: 0.49479166, y: 0.26530612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3720e78099c35948aa6da0df01a4b59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00274
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1167
+        width: 190
+        height: 147
+      alignment: 9
+      pivot: {x: 0.48947367, y: 0.26530612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6cfd451a3d54341808bada51a1ccb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00275
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1326
+        width: 186
+        height: 154
+      alignment: 9
+      pivot: {x: 0.47311828, y: 0.24675325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00028d6905e4ff842832240b01aa1779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00276
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 714
+        width: 183
+        height: 153
+      alignment: 9
+      pivot: {x: 0.48087433, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d29fb868c993d4eacdb309b3f8cb57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00277
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1583
+        width: 194
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5154639, y: 0.24675325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c85f88bb49a72c47a108cdfd6a21102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00278
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1168
+        width: 183
+        height: 156
+      alignment: 9
+      pivot: {x: 0.4863388, y: 0.25641027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712ff56f09fe2e24bb4f4ab013cd9945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00279
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 603
+        width: 179
+        height: 153
+      alignment: 9
+      pivot: {x: 0.49720672, y: 0.24836601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0eec64b8c2b47e42aaf95134874c228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00280
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 352
+        width: 192
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5104167, y: 0.24503312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f571c99caf05651498ccfab2dd9a620c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00281
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 872
+        width: 186
+        height: 146
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.25342464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39edea3e04e0b5f4fa174a8529351d68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00282
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1370
+        width: 189
+        height: 146
+      alignment: 9
+      pivot: {x: 0.4920635, y: 0.25342464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76876f35da572b043888a6ab90eb1016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00283
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 304
+        width: 176
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5056818, y: 0.2781457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e79cbf006a332479d9571f4b94fedb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00284
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 48
+        width: 190
+        height: 150
+      alignment: 9
+      pivot: {x: 0.50526315, y: 0.25333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd673f649de9a644d9f1ff66a3a3f0e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00285
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 606
+        width: 180
+        height: 150
+      alignment: 9
+      pivot: {x: 0.51666665, y: 0.24666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cc1193e3588eb4cacf632ddf62a0ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00286
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1018
+        width: 190
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25170067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0ed486e2b8b4943b5abb0a78f47b39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00287
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1602
+        width: 185
+        height: 149
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.24161074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2793a5f34c38b45be9969c2e5bae76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00288
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1010
+        width: 181
+        height: 156
+      alignment: 9
+      pivot: {x: 0.49723756, y: 0.23717949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35090e19d322854a818a70f3555aa3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00289
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 850
+        width: 179
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5027933, y: 0.25316456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe708b96449bd749bd79a053698d2dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00290
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 294
+        width: 177
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0.24836601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5f4979c8cc79d4b94c82540f4b2d5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00291
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 27
+        width: 178
+        height: 151
+      alignment: 9
+      pivot: {x: 0.51123595, y: 0.27152318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb820d41f3fe6c41975b260c20e2cf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00292
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 586
+        width: 178
+        height: 151
+      alignment: 9
+      pivot: {x: 0.51123595, y: 0.24503312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67b8b4128dcd3d40ac6e27f37080dd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00293
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 813
+        width: 194
+        height: 151
+      alignment: 9
+      pivot: {x: 0.4742268, y: 0.24503312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ce01ae086b08240956b17fad04a9fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00294
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 864
+        width: 185
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5027027, y: 0.25170067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794204b214415f94f8273e0be0dead5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00295
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 870
+        width: 186
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24657534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca38f5042535dd94a93beb0a87ebf453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00296
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 952
+        width: 188
+        height: 148
+      alignment: 9
+      pivot: {x: 0.49468085, y: 0.25675675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bb7b1673aca144caab4b37ba736531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00297
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 853
+        width: 181
+        height: 148
+      alignment: 9
+      pivot: {x: 0.519337, y: 0.25675675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a4247927684f045bac388c39c6608b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00298
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 852
+        width: 181
+        height: 148
+      alignment: 9
+      pivot: {x: 0.519337, y: 0.25675675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52878fb0bc1d4c84bbe3ab4f5a3419a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUISSON_06_profil_10_00299
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 600
+        width: 181
+        height: 148
+      alignment: 9
+      pivot: {x: 0.519337, y: 0.25675675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1152033d065d4439c766708ee709f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e9c17d4d27d07ae4286ad5dab306981c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,66 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Resources/Textures/buissons/buisson1.tpsheet
+- Assets/Resources/Textures/buissons/buisson2.tpsheet
+- Assets/Resources/Textures/espece1/fleur1.tpsheet
+- Assets/Resources/Textures/espece1/fleur2.tpsheet
+- Assets/Resources/Textures/espece1/fleur3.tpsheet
+- Assets/Resources/Textures/espece1/fleur4.tpsheet
+- Assets/Resources/Textures/espece1/fleur5.tpsheet
+- Assets/Resources/Textures/espece1/fleur6.tpsheet
+- Assets/Resources/Textures/espece2/fleur10.tpsheet
+- Assets/Resources/Textures/espece2/fleur11.tpsheet
+- Assets/Resources/Textures/espece2/fleur12.tpsheet
+- Assets/Resources/Textures/espece2/fleur7.tpsheet
+- Assets/Resources/Textures/espece2/fleur8.tpsheet
+- Assets/Resources/Textures/espece2/fleur9.tpsheet
+- Assets/Resources/Textures/espece3/fleur13.tpsheet
+- Assets/Resources/Textures/espece3/fleur14.tpsheet
+- Assets/Resources/Textures/espece3/fleur15.tpsheet
+- Assets/Resources/Textures/espece3/fleur16.tpsheet
+- Assets/Resources/Textures/espece3/fleur17.tpsheet
+- Assets/Resources/Textures/espece3/fleur18.tpsheet
+textureFileNames:
+- Assets/Resources/Textures/buissons/buisson1.png
+- Assets/Resources/Textures/buissons/buisson2.png
+- Assets/Resources/Textures/espece1/fleur1.png
+- Assets/Resources/Textures/espece1/fleur2.png
+- Assets/Resources/Textures/espece1/fleur3.png
+- Assets/Resources/Textures/espece1/fleur4.png
+- Assets/Resources/Textures/espece1/fleur5.png
+- Assets/Resources/Textures/espece1/fleur6.png
+- Assets/Resources/Textures/espece2/fleur10.png
+- Assets/Resources/Textures/espece2/fleur11.png
+- Assets/Resources/Textures/espece2/fleur12.png
+- Assets/Resources/Textures/espece2/fleur7.png
+- Assets/Resources/Textures/espece2/fleur8.png
+- Assets/Resources/Textures/espece2/fleur9.png
+- Assets/Resources/Textures/espece3/fleur13.png
+- Assets/Resources/Textures/espece3/fleur14.png
+- Assets/Resources/Textures/espece3/fleur15.png
+- Assets/Resources/Textures/espece3/fleur16.png
+- Assets/Resources/Textures/espece3/fleur17.png
+- Assets/Resources/Textures/espece3/fleur18.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

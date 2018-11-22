@@ -1,0 +1,9 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Resources/Textures/fleur1.tpsheet
+textureFileNames:
+- Assets/Resources/Textures/fleur001.png
+normalmapFileNames:
+- 
+enableDebugOutput: 0

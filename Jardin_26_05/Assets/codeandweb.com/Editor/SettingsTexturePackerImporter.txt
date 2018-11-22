@@ -1,0 +1,15 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Resources/Textures/buisson1.tpsheet
+- Assets/Resources/Textures/buisson2.tpsheet
+- Assets/Resources/Textures/fleur1.tpsheet
+textureFileNames:
+- Assets/Resources/Textures/buisson1.png
+- Assets/Resources/Textures/buisson2.png
+- Assets/Resources/Textures/fleur001.png
+normalmapFileNames:
+- 
+- 
+- 
+enableDebugOutput: 0
